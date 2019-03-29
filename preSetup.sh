@@ -8,4 +8,5 @@ echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
 echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc 
 source ~/.bashrc
 npm i -g truffle 
+sudo snap install vscode --classic
 
