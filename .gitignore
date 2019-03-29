@@ -5,6 +5,7 @@
 /geth
 /keystore
 history
+/myData
 
 # logs
 *.out
