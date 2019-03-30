@@ -9,4 +9,5 @@ echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 npm i -g truffle 
 sudo snap install vscode --classic
+pip3 install jupyter
 
