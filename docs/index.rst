@@ -11,4 +11,5 @@ Welcome to TCET Blockchain Workshop's documentation!
     :name: mastertoc
 
     intro
+    truffle
 
